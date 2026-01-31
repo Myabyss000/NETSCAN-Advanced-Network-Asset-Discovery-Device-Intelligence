@@ -47,12 +47,9 @@ NETSCAN operates on a modular architecture leveraging `Scapy` for raw socket man
 -   **Npcap** (Required for Windows packet capture). [Download here](https://nmap.org/npcap/).
     -   *Critical:* Install with **"WinPcap API-compatible Mode"** enabled, or enjoy the silence.
 
-### Setup
-
-```powershell
 # 1. Clone the repository
-git clone https://github.com/yourusername/netscan.git
-cd netscan
+git clone https://github.com/Myabyss000/NETSCAN-Advanced-Network-Asset-Discovery-Device-Intelligence.git
+cd NETSCAN-Advanced-Network-Asset-Discovery-Device-Intelligence
 
 # 2. Initialize environment (recommended to avoid polluting your global site-packages)
 python -m venv venv
