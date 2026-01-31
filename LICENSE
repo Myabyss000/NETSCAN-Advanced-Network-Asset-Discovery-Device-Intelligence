@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026
+Copyright (c) 2026 Arghya Adhikary
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,19 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+---
+
+**DISCLAIMER OF MISUSE**
+
+This Software is designed and intended solely for educational purposes, authorized network auditing, and legitimate system administration. 
+
+By using this Software, you agree to the following terms:
+1.  **Authorized Use Only:** You will use this Software strictly on networks and systems for which you have explicit ownership or written authorization from the owner.
+2.  **No Malicious Intent:** You will not use this Software to engage in unauthorized surveillance, network disruption, data interception, or any illegal activity.
+3.  **Strict Liability:** The authors and contributors shall NOT be held liable for any damages, legal consequences, or third-party claims arising from your use, misuse, or inability to use this Software. You assume full legal responsibility for your actions.
+
+---
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
